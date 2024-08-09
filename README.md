@@ -1,3 +1,4 @@
 # EconomyTailwind
 This website for my youtube channel
-First I am going to add html and css file
+I'm going to share stock analysis, news, and contents for my Youtube channel.
+
