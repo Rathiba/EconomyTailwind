@@ -1,0 +1,29 @@
+.card-input{
+    border:1px solid #ccc;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+    padding-top: 20px;
+    width: 70%;
+    border-radius:8px;
+    box-sizing:border-box;
+    transition: box-shadow 0.3s ease;
+    
+    margin-left: 100px;
+}
+.card-input:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);  
+  }
+  .card-input1{
+    border:1px solid #ccc;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+    width:70%;
+    border-radius: 10px;
+    box-sizing: border-box;
+ transition: box-shadow 0.5s ease;
+ margin-left: 100px;
+ margin-top: 50px;
+ place-items: center;
+  }
+  .card-input1:hover {
+    box-shadow: 0 8px 16px rgba(211, 236, 245, 0.2);  
+  }

@@ -1,0 +1,32 @@
+.header {
+    background-color: linear-gradient(45deg, #da6a6d, #a24ad7);
+    width: 100%;
+    padding: 2%;
+  }
+  
+  .header-toolbar {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .header-title {
+    text-align: center;
+    color: white;
+  }
+  .title-box{
+  flex-grow: 1; 
+  text-align: center;
+  }
+  .header-nav {
+    display: flex;
+    gap: 3px;
+    margin-left: auto;
+    margin-top: 20px;
+  }
+  
+  .header-nav-button {
+    color: white;
+    font-size: 15px;
+  }
